@@ -31,7 +31,8 @@ This repository is my hands-on journey to mastering concurrency in Go. Each fold
 ## 🧪 How to Run
 
 Make sure you have Go installed (v1.18+ recommended).
+Go to the specific directory and execute the command
 
 ```bash
-go run <filename>.go
+go run main.go
 ```
